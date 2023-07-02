@@ -1,0 +1,8 @@
+{
+    "name": "darthvaderrepo",
+    "description": "Providers for Learning Purposes",
+    "manifestVersion": 1,
+    "pluginLists": [
+        "https://raw.githubusercontent.com/Thorodinson1/DSH/builds/plugins.json"
+    ]
+}
