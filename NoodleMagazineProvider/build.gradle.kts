@@ -17,7 +17,7 @@ cloudstream {
      * */
     status = 1 // will be 3 if unspecified
     tvTypes = listOf(
-        "Movie",
+        "NSFW",
     )
 
     iconUrl = "https://www.google.com/s2/favicons?domain=noodlemagazine.com/&sz=%size%"
