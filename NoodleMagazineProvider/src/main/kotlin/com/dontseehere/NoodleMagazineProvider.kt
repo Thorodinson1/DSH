@@ -22,7 +22,7 @@ class NoodleMagazineProvider : MainAPI() { // all providers must be an instance 
     override var lang = "en"
     override val hasDownloadSupport = true
     override val supportedTypes = setOf(
-        TvType.Movie
+        TvType.NSFW
     )
 
 
