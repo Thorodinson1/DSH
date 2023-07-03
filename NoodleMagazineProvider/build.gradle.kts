@@ -5,8 +5,8 @@ cloudstream {
     language = "en"
     // All of these properties are optional, you can safely remove them
 
-    description = "type .nofap in discord - Full Length"
-    authors = listOf("dontseehere")
+    description = "Full length"
+    authors = listOf("dsh")
 
     /**
      * Status int as the following:
