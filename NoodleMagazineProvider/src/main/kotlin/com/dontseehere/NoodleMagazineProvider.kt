@@ -103,7 +103,7 @@ class NoodleMagazineProvider : MainAPI() { // all providers must be an instance 
                 it.toSearchResult()
             }
 
-        return newMovieLoadResponse(title, reqlink, TvType.NSFW, reqlink) {
+        return newMovieLoadResponse(title, reqlink, TvType.Movie, reqlink) {
                 this.posterUrl = poster
                 this.recommendations = recommendations
             }
